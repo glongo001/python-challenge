@@ -4,6 +4,7 @@ This challenge is divided into two parts, the first part is PyBank and the secon
 
 #PyBank
 A file containing budget data was analyzed to obtain:
+
     The total number of months in the dataset
     The total amount of "Profits/Losses" over time
     The changes in "Profits/Losses" month to month during the entire period
@@ -13,6 +14,7 @@ A file containing budget data was analyzed to obtain:
 
 #PyPoll
 A file containing election data was analyzed to obtain:
+
     The total number of votes cast
     A list of candidates who received votes
     The percentage of votes each candidate received
